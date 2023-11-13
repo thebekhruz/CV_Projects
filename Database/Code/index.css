@@ -1,0 +1,30 @@
+.myHeader{
+    background-color: rgb(176, 218, 255);
+    padding: 2ex;
+    
+}
+.links{
+    background-color: rgb(97, 157, 210);
+}
+
+.content {
+    background-color: rgb(214, 225, 235);
+    
+}
+.container {
+    background-color: rgb(228, 228, 229);
+    margin: auto;
+    margin-top: 2em;
+    padding: 20px;
+  
+}
+.btn-light{
+    margin: 5px;
+    /* padding: 5px; */
+}
+#ContentColumn{
+    padding: 10ex;
+}
+.LinkX{
+    padding: 10ex;
+}
