@@ -13,42 +13,22 @@ Welcome to my portfolio of academic projects. These projects span across databas
 ### Architected Database Schema for a Business Application
 - **Description**: Engineered and fine-tuned a robust database schema for a sizable enterprise, handling data for 500+ employees and reducing redundancy by 40%.
 - **Technologies**: Normalization (1NF, 2NF, 3NF)
-- **Images**:
-  - ![Database Schema Image 1](path-to-image-1.png)
-  - ![Database Schema Image 2](path-to-image-2.png)
-- **Documentation**: [Database Schema PDF](path-to-pdf.pdf)
+- **Documentation**: [Database Schema PDF](resources/Conceptual_Model.pdf)
 
 ### End-to-End System Development
 - **Description**: Developed a scalable backend with PHP and MySQL and an intuitive frontend, ensuring functionality, security, and performance.
 - **Technologies**: PHP, MySQL, Frontend Technologies
 - **Images**:
-  - ![End-to-End Development Image 1](path-to-image-1.png)
-  - ![End-to-End Development Image 2](path-to-image-2.png)
+  - ![End-to-End Development Image 1](resources/adding_empl.png)
+  - ![End-to-End Development Image 2](resources/database_index.png)
 
 ---
 
 ## Distributed Systems
 ### Real-Time Messaging for Healthcare
-- **Description**: Created a client-server messaging platform for real-time communication among healthcare professionals.
+- **Description**: A bit hard to showcase as the server which was provided from my university was closed. 
 - **Technologies**: Python, Client-Server Architecture
-- **Images**:
-  - ![Real-Time Messaging Image 1](path-to-image-1.png)
-  - ![Real-Time Messaging Image 2](path-to-image-2.png)
 
-
-### Scalable Multi-User Messaging Enhancement for Healthcare
-- **Description**: Enhanced a messaging system to support concurrent users with features like registration and customizable nicknames.
-- **Technologies**: Python, Scalability Techniques
-- **Images**:
-  - ![Scalable Messaging Image 1](path-to-image-1.png)
-  - ![Scalable Messaging Image 2](path-to-image-2.png)
-
-### Distributed Wedding Planner Application with Concurrency Management
-- **Description**: Developed an SOA-driven system for wedding scheduling, managing up to 550 concurrent users/bots reservations.
-- **Technologies**: Python, SOA, Concurrency
-- **Images**:
-  - ![Wedding Planner Image 1](path-to-image-1.png)
-  - ![Wedding Planner Image 2](path-to-image-2.png)
 
 ---
 
