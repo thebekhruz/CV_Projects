@@ -57,8 +57,7 @@ Welcome to my portfolio of academic projects. These projects span across databas
 - **Description**: Implemented an advanced AI for Reversi using Java, achieving high win rates against human players and peer AIs.
 - **Technologies**: Java, Mini-Max with Alpha-Beta Pruning
 - **Images**:
-  - ![Reversi AI Image 1](resources/reversi1.png)
-  - ![Reversi AI Image 2](resources/reversi2.png)
+  - ![Reversi AI Image 1](resources/reversi1.png) ![Reversi AI Image 2](resources/reversi2.png)
 
 ### Intelligent Washing Machine with Fuzzy Logic
 - **Description**: Created an intelligent system for a washing machine using fuzzy logic to optimize wash parameters.
